@@ -1,5 +1,4 @@
 CRUD Application Design using Additional Features in Flask
-Estimated time needed: 60 minutes
 
 Overview
 	CRUD, which stands for Create, Read, Update, Delete, are basic functionalities that any application based on a database must possess. The development of these features requires additional knowledge of handling routes and requests. You also require multiple endpoint HTML interfaces to accommodate different requests. 
